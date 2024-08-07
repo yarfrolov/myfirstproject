@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /
+
+
+Sitemap: http://m2.ru/sitemap.xml
+Host: m2.ru
